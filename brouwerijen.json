@@ -1,0 +1,58 @@
+{
+  "brouwerijen": [
+    {
+      "id": 101,
+      "naam": "Brouwerij Duvel Moortgat",
+      "opgericht": 1871,
+      "land": "België"
+    },
+    {
+      "id": 102,
+      "naam": "Abdij der Trappisten van Westmalle",
+      "opgericht": 1836,
+      "land": "België"
+    },
+    {
+      "id": 103,
+      "naam": "Brasserie d'Achouffe",
+      "opgericht": 1982,
+      "land": "België"
+    },
+    {
+      "id": 104,
+      "naam": "Abbaye de Scourmont",
+      "opgericht": 1862,
+      "land": "België"
+    },
+    {
+      "id": 105,
+      "naam": "Abbaye Notre-Dame d'Orval",
+      "opgericht": 1931,
+      "land": "België"
+    },
+    {
+      "id": 106,
+      "naam": "Brouwerij Bosteels",
+      "opgericht": 1791,
+      "land": "België"
+    },
+    {
+      "id": 108,
+      "naam": "Brouwerij Huyghe",
+      "opgericht": 1906,
+      "land": "België"
+    },
+    {
+      "id": 109,
+      "naam": "Brouwerij De Koninck",
+      "opgericht": 1833,
+      "land": "België"
+    },
+    {
+      "id": 110,
+      "naam": "Brouwerij St. Bernardus",
+      "opgericht": 1946,
+      "land": "België"
+    }
+  ]
+}
