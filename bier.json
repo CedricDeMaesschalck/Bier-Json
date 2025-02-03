@@ -7,7 +7,7 @@
             "alcoholPercentage": 8.5,
             "isOpTap": true,
             "introductieDatum": "1923-01-01",
-            "afbeelding": "https://example.com/duvel.jpg",
+            "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/Duvel.png",
             "bierType": "Blond",
             "ingrediënten": [
                 "Water",
@@ -35,7 +35,7 @@
                 "land": "België"
             },
             "introductieDatum": "1934-01-01",
-            "afbeelding": "https://example.com/westmalle-tripel.jpg",
+            "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/WestmalleTripel.webp",
             "bierType": "Tripel",
             "ingrediënten": [
                 "Water",
@@ -57,7 +57,7 @@
                 "land": "België"
             },
             "introductieDatum": "1982-08-27",
-            "afbeelding": "https://example.com/la-chouffe.jpg",
+            "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/lachouffe.jpg",
             "bierType": "Blond",
             "ingrediënten": [
                 "Water",
@@ -80,7 +80,7 @@
                 "land": "België"
             },
             "introductieDatum": "1956-01-01",
-            "afbeelding": "https://example.com/chimay-blauw.jpg",
+            "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/chimaybleu.jpg",
             "bierType": "Donker",
             "ingrediënten": [
                 "Water",
@@ -103,7 +103,7 @@
                 "land": "België"
             },
             "introductieDatum": "1931-01-01",
-            "afbeelding": "https://example.com/orval.jpg",
+            "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/orval.jpg",
             "bierType": "Amber",
             "ingrediënten": [
                 "Water",
@@ -125,7 +125,7 @@
                 "land": "België"
             },
             "introductieDatum": "1996-01-01",
-            "afbeelding": "https://example.com/karmeliet.jpg",
+            "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/TripelKarmeliet.png",
             "bierType": "Tripel",
             "ingrediënten": [
                 "Water",
@@ -149,7 +149,7 @@
                 "land": "België"
             },
             "introductieDatum": "1952-01-01",
-            "afbeelding": "https://example.com/rochefort10.jpg",
+            "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/Rochefort10.png",
             "bierType": "Donker",
             "ingrediënten": [
                 "Water",
@@ -172,7 +172,7 @@
                 "land": "België"
             },
             "introductieDatum": "1989-01-01",
-            "afbeelding": "https://example.com/delirium.jpg",
+            "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/deliriumtremens.png",
             "bierType": "Blond",
             "ingrediënten": [
                 "Water",
@@ -194,7 +194,7 @@
                 "land": "België"
             },
             "introductieDatum": "2010-01-01",
-            "afbeelding": "https://example.com/triple-danvers.jpg",
+            "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/tripeldanvers.png",
             "bierType": "Tripel",
             "ingrediënten": [
                 "Water",
@@ -206,7 +206,7 @@
         {
             "id": 10,
             "naam": "St. Bernardus Abt 12",
-            "beschrijving": "Een donker quadrupel bier met een volle en complexe smaak.",
+            "beschrijving": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/StBernardusAbt12.png",
             "alcoholPercentage": 10.0,
             "isBeschikbaar": true,
             "brouwerij": {
