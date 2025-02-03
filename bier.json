@@ -1,0 +1,230 @@
+{
+    "bieren": [
+        {
+            "id": 1,
+            "naam": "Duvel",
+            "beschrijving": "Een sterk blond bier met een pittige smaak en fruitige tonen.",
+            "alcoholPercentage": 8.5,
+            "isOpTap": true,
+            "introductieDatum": "1923-01-01",
+            "afbeelding": "https://example.com/duvel.jpg",
+            "bierType": "Blond",
+            "ingrediënten": [
+                "Water",
+                "Mout",
+                "Hop",
+                "Gist"
+            ],
+            "brouwerij": {
+                "id": 101,
+                "naam": "Brouwerij Duvel Moortgat",
+                "opgericht": 1871,
+                "land": "België"
+            }
+        },
+        {
+            "id": 2,
+            "naam": "Westmalle Tripel",
+            "beschrijving": "Een klassieke tripel met een zachte en romige smaak.",
+            "alcoholPercentage": 9.5,
+            "isOpTap": true,
+            "brouwerij": {
+                "id": 102,
+                "naam": "Abdij der Trappisten van Westmalle",
+                "opgericht": 1836,
+                "land": "België"
+            },
+            "introductieDatum": "1934-01-01",
+            "afbeelding": "https://example.com/westmalle-tripel.jpg",
+            "bierType": "Tripel",
+            "ingrediënten": [
+                "Water",
+                "Mout",
+                "Hop",
+                "Gist"
+            ]
+        },
+        {
+            "id": 3,
+            "naam": "La Chouffe",
+            "beschrijving": "Een ongefilterd blond bier met citrus- en koriandertonen.",
+            "alcoholPercentage": 8.0,
+            "isOpTap": false,
+            "brouwerij": {
+                "id": 103,
+                "naam": "Brasserie d'Achouffe",
+                "opgericht": 1982,
+                "land": "België"
+            },
+            "introductieDatum": "1982-08-27",
+            "afbeelding": "https://example.com/la-chouffe.jpg",
+            "bierType": "Blond",
+            "ingrediënten": [
+                "Water",
+                "Mout",
+                "Hop",
+                "Gist",
+                "Koriander"
+            ]
+        },
+        {
+            "id": 4,
+            "naam": "Chimay Blauw",
+            "beschrijving": "Een donker trappistenbier met rijke aroma's van gedroogd fruit.",
+            "alcoholPercentage": 9.0,
+            "isOpTap": true,
+            "brouwerij": {
+                "id": 104,
+                "naam": "Abbaye de Scourmont",
+                "opgericht": 1862,
+                "land": "België"
+            },
+            "introductieDatum": "1956-01-01",
+            "afbeelding": "https://example.com/chimay-blauw.jpg",
+            "bierType": "Donker",
+            "ingrediënten": [
+                "Water",
+                "Mout",
+                "Hop",
+                "Gist",
+                "Suiker"
+            ]
+        },
+        {
+            "id": 5,
+            "naam": "Orval",
+            "beschrijving": "Een amberkleurig trappistenbier met een unieke smaak dankzij wilde gist.",
+            "alcoholPercentage": 6.2,
+            "isBeschikbaar": true,
+            "brouwerij": {
+                "id": 105,
+                "naam": "Abbaye Notre-Dame d'Orval",
+                "opgericht": 1931,
+                "land": "België"
+            },
+            "introductieDatum": "1931-01-01",
+            "afbeelding": "https://example.com/orval.jpg",
+            "bierType": "Amber",
+            "ingrediënten": [
+                "Water",
+                "Mout",
+                "Hop",
+                "Gist"
+            ]
+        },
+        {
+            "id": 6,
+            "naam": "Karmeliet Tripel",
+            "beschrijving": "Een zacht en kruidig tripelbier, gebrouwen met drie granen.",
+            "alcoholPercentage": 8.4,
+            "isBeschikbaar": true,
+            "brouwerij": {
+                "id": 106,
+                "naam": "Brouwerij Bosteels",
+                "opgericht": 1791,
+                "land": "België"
+            },
+            "introductieDatum": "1996-01-01",
+            "afbeelding": "https://example.com/karmeliet.jpg",
+            "bierType": "Tripel",
+            "ingrediënten": [
+                "Water",
+                "Mout",
+                "Hop",
+                "Gist",
+                "Haver",
+                "Tarwe"
+            ]
+        },
+        {
+            "id": 7,
+            "naam": "Rochefort 10",
+            "beschrijving": "Een donker trappistenbier met een diepe en complexe smaak.",
+            "alcoholPercentage": 11.3,
+            "isBeschikbaar": true,
+            "brouwerij": {
+                "id": 107,
+                "naam": "Abbaye Notre-Dame de Saint-Remy",
+                "opgericht": 1230,
+                "land": "België"
+            },
+            "introductieDatum": "1952-01-01",
+            "afbeelding": "https://example.com/rochefort10.jpg",
+            "bierType": "Donker",
+            "ingrediënten": [
+                "Water",
+                "Mout",
+                "Hop",
+                "Gist",
+                "Kandijsuiker"
+            ]
+        },
+        {
+            "id": 8,
+            "naam": "Delirium Tremens",
+            "beschrijving": "Een krachtig blond bier met een licht bittere afdronk en fruitige aroma's.",
+            "alcoholPercentage": 8.5,
+            "isBeschikbaar": true,
+            "brouwerij": {
+                "id": 108,
+                "naam": "Brouwerij Huyghe",
+                "opgericht": 1906,
+                "land": "België"
+            },
+            "introductieDatum": "1989-01-01",
+            "afbeelding": "https://example.com/delirium.jpg",
+            "bierType": "Blond",
+            "ingrediënten": [
+                "Water",
+                "Mout",
+                "Hop",
+                "Gist"
+            ]
+        },
+        {
+            "id": 9,
+            "naam": "Triple d'Anvers",
+            "beschrijving": "Een amberkleurig bier met een lichtzoete smaak en kruidige toets.",
+            "alcoholPercentage": 8.0,
+            "isBeschikbaar": true,
+            "brouwerij": {
+                "id": 109,
+                "naam": "Brouwerij De Koninck",
+                "opgericht": 1833,
+                "land": "België"
+            },
+            "introductieDatum": "2010-01-01",
+            "afbeelding": "https://example.com/triple-danvers.jpg",
+            "bierType": "Tripel",
+            "ingrediënten": [
+                "Water",
+                "Mout",
+                "Hop",
+                "Gist"
+            ]
+        },
+        {
+            "id": 10,
+            "naam": "St. Bernardus Abt 12",
+            "beschrijving": "Een donker quadrupel bier met een volle en complexe smaak.",
+            "alcoholPercentage": 10.0,
+            "isBeschikbaar": true,
+            "brouwerij": {
+                "id": 110,
+                "naam": "Brouwerij St. Bernardus",
+                "opgericht": 1946,
+                "land": "België"
+            },
+            "introductieDatum": "1946-01-01",
+            "afbeelding": "https://example.com/stbernardus.jpg",
+            "bierType": "Quadrupel",
+            "ingrediënten": [
+                "Water",
+                "Mout",
+                "Hop",
+                "Gist",
+                "Kandijsuiker"
+            ]
+        }
+    ]
+}
