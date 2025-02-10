@@ -6,6 +6,12 @@
             "beschrijving": "Een sterk blond bier met een pittige smaak en fruitige tonen.",
             "alcoholPercentage": 8.5,
             "isOpTap": true,
+            "brouwerij": {
+                "id": 101,
+                "naam": "Brouwerij Duvel Moortgat",
+                "opgericht": 1871,
+                "gemeente": "Puurs-Sint-Amands"
+            },
             "introductieDatum": "1923-01-01",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/Duvel.png",
             "bierType": "Blond",
@@ -14,13 +20,7 @@
                 "Mout",
                 "Hop",
                 "Gist"
-            ],
-            "brouwerij": {
-                "id": 101,
-                "naam": "Brouwerij Duvel Moortgat",
-                "opgericht": 1871,
-                "gemeente": "Puurs-Sint-Amands"
-            }
+            ]
         },
         {
             "id": 2,
