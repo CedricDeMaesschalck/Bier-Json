@@ -95,7 +95,7 @@
             "naam": "Orval",
             "beschrijving": "Een amberkleurig trappistenbier met een unieke smaak dankzij wilde gist.",
             "alcoholPercentage": 6.2,
-            "isBeschikbaar": true,
+            "isOpTap": true,
             "brouwerij": {
                 "id": 105,
                 "naam": "Abbaye Notre-Dame d'Orval",
@@ -117,7 +117,7 @@
             "naam": "Karmeliet Tripel",
             "beschrijving": "Een zacht en kruidig tripelbier, gebrouwen met drie granen.",
             "alcoholPercentage": 8.4,
-            "isBeschikbaar": true,
+            "isOpTap": true,
             "brouwerij": {
                 "id": 106,
                 "naam": "Brouwerij Bosteels",
@@ -141,7 +141,7 @@
             "naam": "Rochefort 10",
             "beschrijving": "Een donker trappistenbier met een diepe en complexe smaak.",
             "alcoholPercentage": 11.3,
-            "isBeschikbaar": true,
+            "isOpTap": false,
             "brouwerij": {
                 "id": 107,
                 "naam": "Abbaye Notre-Dame de Saint-Remy",
@@ -164,7 +164,7 @@
             "naam": "Delirium Tremens",
             "beschrijving": "Een krachtig blond bier met een licht bittere afdronk en fruitige aroma's.",
             "alcoholPercentage": 8.5,
-            "isBeschikbaar": true,
+            "isOpTap": false,
             "brouwerij": {
                 "id": 108,
                 "naam": "Brouwerij Huyghe",
@@ -186,7 +186,7 @@
             "naam": "Triple d'Anvers",
             "beschrijving": "Een amberkleurig bier met een lichtzoete smaak en kruidige toets.",
             "alcoholPercentage": 8.0,
-            "isBeschikbaar": true,
+            "isOpTap": true,
             "brouwerij": {
                 "id": 109,
                 "naam": "Brouwerij De Koninck",
@@ -208,7 +208,7 @@
             "naam": "St. Bernardus Abt 12",
             "beschrijving": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/StBernardusAbt12.png",
             "alcoholPercentage": 10.0,
-            "isBeschikbaar": true,
+            "isOpTap": false,
             "brouwerij": {
                 "id": 110,
                 "naam": "Brouwerij St. Bernardus",
