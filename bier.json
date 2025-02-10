@@ -19,7 +19,7 @@
                 "id": 101,
                 "naam": "Brouwerij Duvel Moortgat",
                 "opgericht": 1871,
-                "land": "België"
+                "gemeente": "Puurs-Sint-Amands"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "id": 102,
                 "naam": "Abdij der Trappisten van Westmalle",
                 "opgericht": 1836,
-                "land": "België"
+                "gemeente": "Westmalle"
             },
             "introductieDatum": "1934-01-01",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/WestmalleTripel.webp",
@@ -54,7 +54,7 @@
                 "id": 103,
                 "naam": "Brasserie d'Achouffe",
                 "opgericht": 1982,
-                "land": "België"
+                "gemeente": "Houffalize"
             },
             "introductieDatum": "1982-08-27",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/lachouffe.jpg",
@@ -77,7 +77,7 @@
                 "id": 104,
                 "naam": "Abbaye de Scourmont",
                 "opgericht": 1862,
-                "land": "België"
+                "gemeente": "Chimay"
             },
             "introductieDatum": "1956-01-01",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/chimaybleu.jpg",
@@ -100,7 +100,7 @@
                 "id": 105,
                 "naam": "Abbaye Notre-Dame d'Orval",
                 "opgericht": 1931,
-                "land": "België"
+                "gemeente": "Villers-devant-Orval"
             },
             "introductieDatum": "1931-01-01",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/orval.jpg",
@@ -122,7 +122,7 @@
                 "id": 106,
                 "naam": "Brouwerij Bosteels",
                 "opgericht": 1791,
-                "land": "België"
+                "gemeente": "Buggenhout"
             },
             "introductieDatum": "1996-01-01",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/TripelKarmeliet.png",
@@ -146,7 +146,7 @@
                 "id": 107,
                 "naam": "Abbaye Notre-Dame de Saint-Remy",
                 "opgericht": 1230,
-                "land": "België"
+                "gemeente": "Rochefort"
             },
             "introductieDatum": "1952-01-01",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/Rochefort10.png",
@@ -169,7 +169,7 @@
                 "id": 108,
                 "naam": "Brouwerij Huyghe",
                 "opgericht": 1906,
-                "land": "België"
+                "gemeente": "Melle"
             },
             "introductieDatum": "1989-01-01",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/deliriumtremens.png",
@@ -191,7 +191,7 @@
                 "id": 109,
                 "naam": "Brouwerij De Koninck",
                 "opgericht": 1833,
-                "land": "België"
+                "gemeente": "Antwerpen"
             },
             "introductieDatum": "2010-01-01",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/tripeldanvers.png",
@@ -213,7 +213,7 @@
                 "id": 110,
                 "naam": "Brouwerij St. Bernardus",
                 "opgericht": 1946,
-                "land": "België"
+                "gemeente": "Watou"
             },
             "introductieDatum": "1946-01-01",
             "afbeelding": "https://example.com/stbernardus.jpg",
