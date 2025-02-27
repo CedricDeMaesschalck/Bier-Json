@@ -206,7 +206,7 @@
         {
             "id": 10,
             "naam": "St. Bernardus Abt 12",
-            "beschrijving": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/StBernardusAbt12.png",
+            "beschrijving": "Het zit boordevol complexe smaken en blinkt uit door zijn lange bitterzoete afdronk.",
             "alcoholPercentage": 10.0,
             "isOpTap": false,
             "brouwerij": {
@@ -216,7 +216,7 @@
                 "gemeente": "Watou"
             },
             "introductieDatum": "1946-01-01",
-            "afbeelding": "https://example.com/stbernardus.jpg",
+            "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/StBernardusAbt12.png",
             "bierType": "Quadrupel",
             "ingrediënten": [
                 "Water",
