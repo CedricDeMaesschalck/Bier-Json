@@ -15,7 +15,7 @@
             "introductieDatum": "1923-01-01",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/Duvel.png",
             "bierType": "Blond",
-            "ingrediënten": [
+            "ingredienten": [
                 "Water",
                 "Mout",
                 "Hop",
@@ -37,7 +37,7 @@
             "introductieDatum": "1934-01-01",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/WestmalleTripel.webp",
             "bierType": "Tripel",
-            "ingrediënten": [
+            "ingredienten": [
                 "Water",
                 "Mout",
                 "Hop",
@@ -59,7 +59,7 @@
             "introductieDatum": "1982-08-27",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/lachouffe.jpg",
             "bierType": "Blond",
-            "ingrediënten": [
+            "ingredienten": [
                 "Water",
                 "Mout",
                 "Hop",
@@ -82,7 +82,7 @@
             "introductieDatum": "1956-01-01",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/chimaybleu.jpg",
             "bierType": "Donker",
-            "ingrediënten": [
+            "ingredienten": [
                 "Water",
                 "Mout",
                 "Hop",
@@ -105,7 +105,7 @@
             "introductieDatum": "1931-01-01",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/orval.jpg",
             "bierType": "Amber",
-            "ingrediënten": [
+            "ingredienten": [
                 "Water",
                 "Mout",
                 "Hop",
@@ -127,7 +127,7 @@
             "introductieDatum": "1996-01-01",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/TripelKarmeliet.png",
             "bierType": "Tripel",
-            "ingrediënten": [
+            "ingredienten": [
                 "Water",
                 "Mout",
                 "Hop",
@@ -151,7 +151,7 @@
             "introductieDatum": "1952-01-01",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/Rochefort10.png",
             "bierType": "Donker",
-            "ingrediënten": [
+            "ingredienten": [
                 "Water",
                 "Mout",
                 "Hop",
@@ -174,7 +174,7 @@
             "introductieDatum": "1989-01-01",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/deliriumtremens.png",
             "bierType": "Blond",
-            "ingrediënten": [
+            "ingredienten": [
                 "Water",
                 "Mout",
                 "Hop",
@@ -196,7 +196,7 @@
             "introductieDatum": "2010-01-01",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/tripeldanvers.png",
             "bierType": "Tripel",
-            "ingrediënten": [
+            "ingredienten": [
                 "Water",
                 "Mout",
                 "Hop",
@@ -218,7 +218,7 @@
             "introductieDatum": "1946-01-01",
             "afbeelding": "https://raw.githubusercontent.com/CedricDeMaesschalck/Bier-Json/refs/heads/main/bierfoto/StBernardusAbt12.png",
             "bierType": "Quadrupel",
-            "ingrediënten": [
+            "ingredienten": [
                 "Water",
                 "Mout",
                 "Hop",
